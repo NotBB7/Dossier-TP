@@ -13,7 +13,7 @@
 <body>
 
 	<div class="hero-section">
-		<div class="about-text hover-target">devis</div>
+		<div class="about-text hover-target" onclick='document.location.href="test.php";'>devis</div>
 		<div class="contact-text hover-target">contact</div>
 		<div class="section-center">
 			<div class="container-fluid">
@@ -36,25 +36,6 @@
 		</div>
 	</div>
 
-	<div class="about-section">
-		<div class="about-close hover-target"></div>
-		<div class="section-center">
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="col-12 text-center">
-						<img src="not.png" alt="">
-					</div>
-					<div class="col-lg-8 text-center mt-3">
-						<p class="mb-1">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.</p>
-					</div>
-					<div class="col-12 text-center">
-						<p class="mb-0"><span>Christian Arete</span></p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
 	<div class="contact-section">
 		<div class="contact-close hover-target"></div>
 		<div class="section-center">
@@ -63,13 +44,13 @@
 					<div class="col-12 text-center">
 						<form class="form">
 							<h2>Contacte Moi !</h2>
-							<p type="Name:"><input placeholder="Nom et Prénom"></input></p>
-							<p type="Email:"><input placeholder="Votre adresse mail"></input></p>
-							<p type="Message:"><input placeholder="Votre message"></input></p>
-							<button>Send Message</button>
+							<p type=""><input placeholder="Nom et Prénom"></input></p>
+							<p type=""><input placeholder="Votre adresse mail"></input></p>
+							<p type=""><input placeholder="Votre message"></input></p>
+							<button>Envoyer</button>
 							<div class="icone">
-								<span class="fa fa-phone"></span>001 1023 567
-								<span class="fa fa-envelope-o"></span> contact@company.com
+								<span class="fa fa-phone"></span>00 00 00 00 00
+								<span class="fa fa-envelope-o"></span> contact@google.com
 							</div>
 						</form>
 					</div>
