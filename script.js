@@ -30,7 +30,7 @@
     }
 
 	
-	//About page
+	//Page de devis
 	
 	$(".about-text").on('click', function () {
 		$("body").addClass("about-on");
@@ -40,7 +40,7 @@
 	});
 
 	
-	//Contact page
+	//Page de contact
 	
 	$(".contact-text").on('click', function () {
 		$("body").addClass("contact-on");
