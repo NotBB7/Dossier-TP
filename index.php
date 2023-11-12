@@ -22,7 +22,7 @@
 						<h1>Moon<br>Prod</h1>
 					</div>
 					<div class="col-12 text-center mb-2">
-						<div class="dancing"><span>monteur</span></div>
+						<div class="dancing"><span>...</span></div>
 					</div>
 					<div class="col-12 text-center">
 						<p>
